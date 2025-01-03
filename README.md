@@ -26,5 +26,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pikapool007&show_icons=true&locale=en&layout=compact" alt="adityakejariwal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityakejariwal&show_icons=true&locale=en" alt="adityakejariwal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pikapool007&show_icons=true&locale=en" alt="adityakejariwal" /></p>
 
