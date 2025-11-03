@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakejariwal&label=Profile%20views&color=ff0000&style=flat" alt="adityakejariwal" /> </p>
 
-- 🔭 I’m currently working on **RAMP - Resume Analysis and Match Predictor**
+- 🔭 I’m currently working on **WanderMind - A Travel Planner Agent**
 
-- 🌱 I’m currently learning **GenAI**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://aditya-kejariwal.netlify.app/](https://aditya-kejariwal.netlify.app/)
 
-- 💬 Ask me about **Java, Frontend Web Dev and anything AI or Data Science**
+- 💬 Ask me about **Anything AI**
 
 - 📫 How to reach me **kejariwaladitya@gmail.com**
 
